@@ -1,9 +1,9 @@
 <<<<<<< HEAD
-## Creating a backend app that run some logic to make money on crypto exchange that is illiquid.
+## Creating a backend app that runs some logic to make money on an illiquid crypto exchange.
 
 ## Preface 
  
-The goal is to code something on node.js which will lookover illiquid overbook, and when an order 
+The goal is to code something on node.js that will lookover illiquid overbook, and when an order 
 is placed, quickly re-buy the same thing in more liquid markets to gain some arb 
 =======
 # trading-bot-coindcx
