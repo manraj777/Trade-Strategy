@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-## Creating a backend app that run some logic to make money on crypto exchange that is illiquid.
+## Creating a backend app that runs some logic to make money on a crypto exchange that is illiquid.
 
 ## Preface 
  
@@ -23,6 +23,6 @@ bun run index.ts
 This project was created using `bun init` in bun v1.1.42. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 >>>>>>> 3a69fdc (some diff occur between crypto exchanges)
 
-## Disclaimer:- It might be profitble or not depending upon illiqued market 
+## Disclaimer:- It might be profitable or not depending upon the illiquid market 
 
-This will revolve around highest bid and lowest ask price for the same market that might be profitble even after applying tax but you need to make sure no other bot run simultaneously for same market, if it does both will compatite and no one make profit by this.
+This will revolve around the highest bid and lowest ask price for the same market, which might be profitable even after applying tax. However, you need to make sure no other bot runs simultaneously for the same market; if it does, both will compete, and no one will profit from this.
