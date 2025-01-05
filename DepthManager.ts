@@ -25,7 +25,7 @@ export class DepthManager {
         this.asks = depth.asks;
     }
 
-    getReleventDepth() {
+    getRelevantDepth() {
         let highestBid = -100;
         let lowestAsk = 10000000;
 

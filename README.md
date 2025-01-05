@@ -22,3 +22,7 @@ bun run index.ts
 
 This project was created using `bun init` in bun v1.1.42. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
 >>>>>>> 3a69fdc (some diff occur between crypto exchanges)
+
+## Disclaimer:- It might be profitble or not depending upon illiqued market 
+
+This will revolve around highest bid and lowest ask price for the same market that might be profitble even after applying tax but you need to make sure no other bot run simultaneously for same market, if it does both will compatite and no one make profit by this.
